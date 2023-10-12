@@ -23,7 +23,12 @@ body{
 .container-1:hover{
     background-color: rgb(62, 19, 218);
 }    
-
+.container-2:hover{
+    background-color: rgb(62, 19, 218);
+} 
+.container-3:hover{
+    background-color: rgb(62, 19, 218);
+} 
 .name_img>img{
     height: 200px;
     border-radius: 50%;
@@ -31,4 +36,12 @@ body{
 
 .name_img{
     text-align: center;
+}
+
+.project-1>img{
+    width: 20px;
+}
+
+.projects{
+    display: flex;
 }
